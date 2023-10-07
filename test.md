@@ -5,4 +5,4 @@
 > **git clone URL** - клонируется репозиторий по адресу **URL** 
 Привет, Гитхаб
 Привет от Алексея!
-here was Vlad
+here was Vlad once
